@@ -407,3 +407,5 @@ paket-files/
 *.xsd.cs
 
 # End of https://www.gitignore.io/api/adobe,python,windows,visualstudio
+Platformer.sln
+*.pyproj
