@@ -1,14 +1,6 @@
 
 # Created by https://www.gitignore.io/api/adobe,python,windows,visualstudio
 
-### Adobe ###
-# Adobe Source Files
-*.psd
-*.ai
-*.indd
-*.prproj
-*.aep
-
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
